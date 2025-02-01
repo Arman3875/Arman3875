@@ -1,6 +1,6 @@
 <h1 align="center">
  <p>Hi there👋, Welcome to My Coding Playground.</p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=IThis+ is+Arman+Hossain👋." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=purple&size=36&center=true&vCenter=true&lines=This+ is+Arman+Hossain👋." alt="Typing SVG" /></a>
 </h1>
  
 <h1 style="font-size: 3rem; color: #0e75b6; text-align: center;">💫 About Me:</h1>
